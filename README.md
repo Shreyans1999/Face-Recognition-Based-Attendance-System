@@ -21,17 +21,17 @@ v)Displays live attendance updates for the day on the main screen in tabular for
 
 ## 4).SCREENSHOTS
 
-# i)User will register its name and id by clicking on Add new user button.
+i)User will register its name and id by clicking on Add new user button.
 ![1](https://user-images.githubusercontent.com/38953782/232262142-d93127c7-61b2-4fa6-8c5a-ca87816a0d06.png)
 
-# ii)The moment you click on the button, the camera window will open for capturing the image of the user and get registered themselves into the database.
+ii)The moment you click on the button, the camera window will open for capturing the image of the user and get registered themselves into the database.
 ![2](https://user-images.githubusercontent.com/38953782/232262204-ae953754-3372-459c-ab13-a043a91a9471.png)
 
-# iii)Then click on the Take Attendance button to take the attendance as usual, for this camera will automatically detect the user's face and display their name on the screen.
+iii)Then click on the Take Attendance button to take the attendance as usual, for this camera will automatically detect the user's face and display their name on the screen.
 ![4](https://user-images.githubusercontent.com/38953782/232262455-91c5f6c8-d1bd-4cb0-9455-d1211a93031a.png)
 
-# iv)After then press ctrl+c to exit the camera window, then you would see that records have been automatically entered in the table with id and time.
+iv)After then press ctrl+c to exit the camera window, then you would see that records have been automatically entered in the table with id and time.
 ![5](https://user-images.githubusercontent.com/38953782/232262557-b58cd542-89a9-4db3-ad0c-4bd0c453285c.png)
 
-# v)Finally, just to the Attendance folder and you will see that Excel sheet has maintained for storing the present records.
+v)Finally, just go the Attendance folder and you will see that Excel sheet has maintained for storing the present records.
 ![6](https://user-images.githubusercontent.com/38953782/232262601-b4cfc301-68c4-4498-a072-78188216d56f.png)
